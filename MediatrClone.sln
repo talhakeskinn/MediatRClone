@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatrClone.Library", "MediatrClone.Library\MediatrClone.Library.csproj", "{C7034A56-826D-4FD2-BBCA-4953906B027A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatrClone.API", "MediatrClone.API\MediatrClone.API.csproj", "{780F2E55-1914-45F4-815A-8975A15BD491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7034A56-826D-4FD2-BBCA-4953906B027A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7034A56-826D-4FD2-BBCA-4953906B027A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7034A56-826D-4FD2-BBCA-4953906B027A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7034A56-826D-4FD2-BBCA-4953906B027A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780F2E55-1914-45F4-815A-8975A15BD491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780F2E55-1914-45F4-815A-8975A15BD491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780F2E55-1914-45F4-815A-8975A15BD491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780F2E55-1914-45F4-815A-8975A15BD491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A95A3C3B-C2D7-4C82-8BCA-31A4F314985B}
+	EndGlobalSection
+EndGlobal

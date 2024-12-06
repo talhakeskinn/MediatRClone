@@ -1,0 +1,13 @@
+C:\NetProjects\MediatrClone\MediatrClone.Library\bin\Debug\net8.0\MediatrClone.Library.deps.json
+C:\NetProjects\MediatrClone\MediatrClone.Library\bin\Debug\net8.0\MediatrClone.Library.dll
+C:\NetProjects\MediatrClone\MediatrClone.Library\bin\Debug\net8.0\MediatrClone.Library.pdb
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.csproj.AssemblyReference.cache
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.AssemblyInfoInputs.cache
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.AssemblyInfo.cs
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.csproj.CoreCompileInputs.cache
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.sourcelink.json
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.dll
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\refint\MediatrClone.Library.dll
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\MediatrClone.Library.pdb
+C:\NetProjects\MediatrClone\MediatrClone.Library\obj\Debug\net8.0\ref\MediatrClone.Library.dll

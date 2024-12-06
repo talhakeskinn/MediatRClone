@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LtEB8k9SqbmpWug6l7GvGTSWcdsZqqLCcNohiEEyNZo=",
+  "Source": "MediatrClone.API",
+  "BasePath": "_content/MediatrClone.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
